@@ -1,0 +1,11 @@
+marks = [ 10.5, 20.5, 30.5, 90.5, 50.5, 25.9]
+print(marks.sort())
+print(marks)
+print(type(marks))
+print(len(marks))
+print(marks[0])
+print(marks[1])
+print(marks[2])
+print(marks[3])
+print(marks[4])
+print(marks[5])
